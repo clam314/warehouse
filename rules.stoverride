@@ -1,0 +1,14 @@
+name: 自用规则
+desc: 弥补订阅规则不全的问题
+
+rules:
+  - DOMAIN-SUFFIX,v2ex.com,Nexitally
+  - DOMAIN-SUFFIX,githubassets.com,Nexitally
+  - DOMAIN,bard.google.com,🐹 OpenAI
+  - DOMAIN,gemini.google.com,🐹 OpenAI
+  - DOMAIN-SUFFIX,vercel.app,🐹 OpenAI
+  - DOMAIN-SUFFIX,segment.io,🐹 OpenAI
+  - DOMAIN,copilot.microsoft.com,🐹 OpenAI
+  - DOMAIN,sydney.bing.com,🐹 OpenAI
+  - DOMAIN-SUFFIX,anthropic.com,🐹 OpenAI
+  - DOMAIN-SUFFIX,claude.ai,🐹 OpenAI
